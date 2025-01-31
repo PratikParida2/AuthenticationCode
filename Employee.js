@@ -1,4 +1,5 @@
 const mongoose=require('mongoose');
+//It's Just A Blueprint Of Database Schema Like A Class 
 const employeeSchema=mongoose.Schema({
     name:{
         type:String,
